@@ -23,7 +23,7 @@ let faveNum = 13
 //CODE HERE
 
 let lovesCode = true
-
+// I added true as a boolean value
 //////////////////PROBLEM 4////////////////////
 /*
   Write an if-statement that checks if the faveNum variable is 
@@ -38,6 +38,8 @@ if (faveNum = 13){
 } else{
   console.log("Not lucky 13")
 }
+
+// I wrote a if statement to checks if my faveNum was equal to 13 "I laughed when i picked the 1 number that was lucky before i even saw this question"
 //////////////////PROBLEM 5////////////////////
 /*
   Write a for loop that prints out your faveNum 5 times.
@@ -47,3 +49,4 @@ if (faveNum = 13){
 for (let i = 0; i < 5; i++){
   console.log(faveNum)
 }
+//I used a simple for loop and had it add to I till it = 5

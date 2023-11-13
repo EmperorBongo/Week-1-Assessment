@@ -4,7 +4,7 @@
 const faveColors = ['red', 'green', 'black']
 console.log(faveColors)
 //CODE HERE
-const colorCopy = faveColors.slice() // I wasnt exactaly sure how to go about this so I got on w3 schools and pieced it together it took me a few trys until i was abel to get it but i think it is console logging correctly
+const colorCopy = faveColors.slice() // I used the slice method to make a copy of Favecolors
 console.log(colorCopy)
  
 
@@ -12,8 +12,10 @@ console.log(colorCopy)
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
 //CODE HERE
-colorCopy.push('blue')
-console.log(colorCopy)
+colorCopy.push('blue')    // I used the push method to add a fourth color
+console.log(colorCopy)   
+
+
 //////////////////PROBLEM 3////////////////////
 /*
   Using an array method, create a new array called 'middleNums' from the 
@@ -51,5 +53,7 @@ for (let i = 0; i < bigOrSmallArray.length; i++ ){
     answers.push('small');
   }
 }
+
+// I ran a for loop to check if the number was bigger then 100
 console.log(bigOrSmallArray)
 console.log(answers)

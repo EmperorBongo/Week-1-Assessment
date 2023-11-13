@@ -12,6 +12,7 @@
 // Testing & Integration
 // Maintain
 
+// I Went into my notes and found the SDLC
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -24,3 +25,5 @@ const design = "we will translate the requirements into a software solution and 
 const implementation = "In this step we will write the code and implement the design and the requirements"
 const testingandintegration =  "In this stage we will test the code and get it ready to be a final product by debugging preparing it to integrate in the existing or new system "
 const Maintain = "Maintenance involves updating an existing software product to fix bugs and ensure reliability."
+
+// I went into my notes and used google to give the definitons.

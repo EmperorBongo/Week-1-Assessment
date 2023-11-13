@@ -62,7 +62,7 @@ const gitStatusDefinition = 'shows the current state of your Git working directo
 //CODE HERE
  const gitAddDefinition = 'The git add command adds new or changed files in your working directory to the Git staging area.'
 
- const gitAddCode =  ''
+ const gitAddCode =  'git add .'
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -77,7 +77,7 @@ const gitStatusDefinition = 'shows the current state of your Git working directo
 const gitCommitDefinition = 'creates a commit, which is like a snapshot of your repository.'
 
 
-const gitCommitCode = ''
+const gitCommitCode = 'git commit -m "project" '
 
 //////////////////PROBLEM 8////////////////////
 /*
